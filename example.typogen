@@ -1,0 +1,16 @@
+canvas "T-shirt" {
+    width: 500px;
+    height: 700px;
+    color: "white";
+}
+
+typography "Code is Life" {
+    font-family: "Arial";
+    font-size: 42pt;
+    font-color: "black";
+    alignment: center;
+    effect: shadow(2px, 2px, "gray");
+}
+
+preview on "T-shirt";
+export as "mockup_tshirt.png";
