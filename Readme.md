@@ -4,7 +4,7 @@ Here’s a **README** file for your TypoGen C++ project:
 
 # TypoGen Translator (C++ Version)
 
-This project is a C++ implementation of the **TypoGen** translator, designed to process and render typography-based designs for print-on-demand products such as T-shirts, mugs, posters, and more. The TypoGen language allows users to define typography elements and export them as image mockups.
+This project is a C++ implementation of the **TypoGen** translator, designed to process and render typography-based designs for print-on-demand products such as T-shirts, mugs, posters, and more. The TypoGen language allows users to define typography elements and export them as image mockups. This started life as a ChatGPT prompt to create a programming language for Print On Demand (POD) products. More specifically, doing the inital creation of typography.
 
 ## Features
 
@@ -127,3 +127,5 @@ This project is open-source under the [MIT License](https://opensource.org/licen
 ### End of README
 
 Let me know if you need any additional information or modifications!
+
+- Current implementation compiles but seg faults in parser.cpp. Use at your own risk.
